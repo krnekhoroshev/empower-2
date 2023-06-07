@@ -7,7 +7,7 @@
 <h1 align="center"> Donanım </h1>
 
 
-# Sistem
+# системные требования
 4 CPU
 8 RAM
 200 SSD
