@@ -188,7 +188,7 @@ empowerd tx staking redelegate <src-validator-addr> <dst-validator-addr> 1000000
 ```
 empowerd tx staking unbond $(empowerd keys show wallet --bech val -a) 1000000umpwr --from wallet --chain-id circulus-1 --gas auto --gas-adjustment 1.5 -y
 ```
-### baskasına coin yollama 
+### отправить токены
 ```
 empowerd tx bank send wallet <TO_WALLET_ADDRESS> 1000000umpwr --gas auto --gas-adjustment 1.5 -y
 ```
