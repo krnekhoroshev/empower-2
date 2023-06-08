@@ -2,9 +2,9 @@
 
 <h1 align="center"> Empower Chain </h1>
 
-> Topluluk kanalları: - [Sohbet](https://t.me/corenodechat) - [Empower Discord](https://discord.gg/Zs3GMUhg)
+>  - [Empower Discord](https://discord.gg/Zs3GMUhg)
 
-<h1 align="center"> Donanım </h1>
+<h1 align="center"> Установка ноды </h1>
 
 
 
