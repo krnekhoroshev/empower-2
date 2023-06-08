@@ -55,11 +55,11 @@ git checkout v1.0.0-rc1
 cd chain
 make install
 ```
-## Инициализируем ноду
+## Инициализируем ноду (<name_moniker> свое значение)
 ```
 empowerd config keyring-backend os
 empowerd config chain-id circulus-1
-empowerd init "test" --chain-id circulus-1
+empowerd init <name_moniker> --chain-id circulus-1
 ```
 ## Скачиваем genesis и addrbook
 ```
