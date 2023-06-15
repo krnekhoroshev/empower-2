@@ -183,7 +183,15 @@ empowerd tx staking unbond $(empowerd keys show wallet --bech val -a) 1000000ump
 ```
 empowerd tx bank send wallet <TO_WALLET_ADDRESS> 1000000umpwr --gas auto --gas-adjustment 1.5 -y
 ```
-
+### голосования
+#### проголосовать за (<proposal_id>= номер голосования)
+```
+empowerd tx gov vote <proposal_id> yes --from <wallet_name> --fees 555umpwr
+```
+#### список голосований
+```
+empowerd q gov proposals
+```
 
 
 # перезагрузить сервис
